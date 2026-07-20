@@ -1,4 +1,4 @@
-# Awesome Go
+@# Awesome Go
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
@@ -41,7 +41,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
-## Contents
+@## Contents
 
 <details>
 <summary>Expand contents</summary>
