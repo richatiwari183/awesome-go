@@ -1,12 +1,12 @@
-out/
+@out/
 awesome-go
-.cache/
-check-*
+@.cache/
+check-@
 
 # Folders
-.idea
-.vscode
-test_stale_repositories_log
+@.idea
+#.vscode
+@est_stale_repositories_log
 *.exe
 # Local Netlify folder
-.netlify
+@.netlify
