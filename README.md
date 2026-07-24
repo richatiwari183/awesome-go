@@ -11,7 +11,7 @@ We use the _[Golang Bridge](https://github.com/gobridge/about-us/blob/master/REA
 
 **Sponsorships:**
 
-_Special thanks to_
+@_Special thanks to_
 
 <div align="center">
 <table cellpadding="5">
@@ -19,7 +19,7 @@ _Special thanks to_
 <tr>
 <td colspan="2">
 <a href="https://bit.ly/awesome-go-digitalocean">
-<img src="https://avelino.run/sponsors/do_logo_horizontal_blue-210.png" width="200" alt="Digital Ocean">
+<img src="https://avelino.run/sponsors/do_logo@_horizontal_blue-210.png" width="200" alt="Digital Ocean">
 </a>
 </td>
 </tr>
