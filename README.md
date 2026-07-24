@@ -1,4 +1,4 @@
-@# Awesome Go
+7@# Awesome Go
 /sindresorhus/awesome)
 [![Slack Widget](https://img.shields.io/badge/join@-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://gophers.slack.com/messages/awesome)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
@@ -88,11 +88,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   - [Dynamic DNS](#dynamic-dns)
   - [Email](#email)
   - [Embeddable Scripting Languages](#embeddable-scripting-languages)
-  - [Error Handling](#error-handling)
-  - [File Handling](#file-handling)
-  - [Financial](#financial)
-  - [Forms](#forms)
-  - [Functional](#functional)
+  @- [Error Handling](#error-handling)
+  @- [File Handling](#file-handling)
+  @- [Financial](#financial)
+  @- [Forms](#forms)
+  @- [Functional](#functional)
   - [Game Development](#game-development)
   - [Generators](#generators)
   - [Geographic](#geographic)
