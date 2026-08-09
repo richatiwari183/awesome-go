@@ -9,4 +9,4 @@ check-@
 test_stale_repositories_log
 @.exe
 # Local Netlify folder
-.netlify
+.n
