@@ -52,11 +52,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 <details>
 <summary>Expand contents</summary>
 
-@- [Awesome Go](#awesome-go)
-  @- [Contents](#contents)
-  @- [Actor Model](#actor-model)
-  @- [Artificial Intelligence](#artificial-intelligence)
-  - [Audio and Music](#audio-and-music)
+@- [Authentication and Authorization](#authentication-and-authorization)
+  @- [Blockchain](#blockchain)
+  @- [Bot Building](#bot-building)
+  @- [Build Automation](#build-automation)
+  @- [Command Line](#command-line)
   - [Authentication and Authorization](#authentication-and-authorization)
   @- [Blockchain](#blockchain)
   @- [Bot Building](#bot-building)
