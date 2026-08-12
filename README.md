@@ -56,7 +56,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   @- [Contents](#contents)
   @- [Actor Model](#actor-model)
   @- [Artificial Intelligence](#artificial-intelligence)
-  - [Audio and Music](#audio-and-music)
+  @- [Audio and Music](#audio-and-music)
   @- [Authentication and Authorization](#authentication-and-authorization)
   @- [Blockchain](#blockchain)
   @- [Bot Building](#bot-building)
