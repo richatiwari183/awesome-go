@@ -86,7 +86,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees)
-    - [Pipes](#pipes)
+    @- [Pipes](#pipes)
   - [Database](#database)
     - [Caches](#caches)
     - [Databases Implemented in Go](#databases-implemented-in-go)
