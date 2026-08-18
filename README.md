@@ -9,6 +9,10 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)@- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)
 [![Slack@- [Queues](#queues)
     @- [Sets](#sets)
