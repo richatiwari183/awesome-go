@@ -23,6 +23,11 @@
 [![Slack@- [Queues](#queues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go@- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)
+[![Slack@- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)
 [![Slack Widget](https://img.shields.io/badge/join@-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://gophers.slack.com/messages/awesome)
