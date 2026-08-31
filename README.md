@@ -4,7 +4,12 @@
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)@- [Nullable Types](#nullable-types)
+    @- [Queues](#que@- [Nullable Types](#nullable-types)
     @- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)@- [Nullable Types](#nullable-types)ues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
