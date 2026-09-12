@@ -3,7 +3,13 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
-/sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)
+/sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)
+[![Slack@- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)
     @- [Queues](#queues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
