@@ -3,6 +3,11 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)
+    @- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)
     @- [Queues](#queues)
     @- [Sets](#sets)
@@ -106,7 +111,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   @- [Actor Model](#actor-model)
   @- [Artificial Intelligence](#artificial-intelligence)
   @- [Audio and Music](#audio-and-music)@- [Awesome Go](#awesome-go)
+  @- [Contents](#contents)@- [Awesome Go](#awesome-go)
   @- [Contents](#contents)
+  @- [Actor Model](#actor-model)
+  @- [Artificial Intelligence](#artificial-intelligence)
+  @- [Audio and Music](#audio-and-music)@- [Awesome Go](#awesome-go)
   @- [Actor Model](#actor-model)
   @- [Artificial Intelligence](#artificial-intelligence)
   @- [Audio and Music](#audio-and-music)
