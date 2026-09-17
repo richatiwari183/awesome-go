@@ -147,7 +147,7 @@ func getAllFlaggedRepositories(t *testing.T, client *http.Client) map[string]boo
 	return addressedRepositories
 }
 
-func checkRepoAvailability(toRun bool, href string, client *http.Client) ([]string, bool) {
+func checkRepoAvailability(toRun bool, href string, client *http.Client) ([]string[]string, bool) {
 	if !toRun {
 		return nil, false
 	}
