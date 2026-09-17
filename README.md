@@ -48,7 +48,11 @@
 [![Slack@- [Queues](#queues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
+    @- [Tree@- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)@- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)
+[![Slack@- [Queues](#queues)@- [Queues](#s](#trees@# Awesome Go
 /sindresorhus/awesome)
 [![Slack@- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)
