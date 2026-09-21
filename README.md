@@ -14,7 +14,9 @@
 /sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Nullable Types@- [Queues](#queues)
     @- [)
     @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)@- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go@- [Nullable
     @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types)
     @- [Queues](#queues)
     @- [Sets](#sets)
