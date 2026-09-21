@@ -11,7 +11,9 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
-/sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Nullable Types@- [Queues](#queues)
+/sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Nullable[Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types Types@- [Queues](#queues)
     @- [)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
