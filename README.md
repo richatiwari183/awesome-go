@@ -7,7 +7,7 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types)
-    @- [Queues](#queues)
+    @- [Queues](#queues
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
