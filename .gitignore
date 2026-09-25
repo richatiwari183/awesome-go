@@ -9,4 +9,9 @@ check-@
 test_stale_repositories_log
 @.exe
 # Local Netlify folder
-.n
+.n@- [Queues](#queues)
+    @- [Sets](#sets)types)
+    @- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
