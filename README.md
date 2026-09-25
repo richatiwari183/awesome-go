@@ -9,6 +9,12 @@
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
+/sindresorhus/awesome)@- [Nullable@- [Queues](#queues)
+    @- [Sets](#sets)types)
+    @- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go
 /sindresorhus/awesome)@- [Nullable Types](#nullable-types)@- [Nullable Types](#nullable-types)@- [Nullable@- [Queues](#queues)
     @- [)
     @- [Sets](#sets)
