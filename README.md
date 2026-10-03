@@ -148,7 +148,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   @- [Bot Building](#bot-building)
   @- [Build Automation](#build-automation)
   @- [Command Line](#command-line)
-    @- [Advanced Console UIs](#advanced-console-uis)
+    @- [Advanced Console UIs](#advanced-console-uis)@- [Blockchain](#blockchain)
+  @- [Bot Building](#bot-building)
+  @- [Build Automation](#build-automation)
+  @- [Command Line](#command-line)
+    @- [Advanced Console UIs](#advanced-console-uis) ho 
     @- [Standard CLI](#standard-cli)
   @- [Configuration](#configuration)
   @- [Continuous Integration](#continuous-integration)
