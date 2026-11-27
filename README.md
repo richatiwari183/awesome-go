@@ -5,7 +5,12 @@
     @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types)
     @- [Queues](#queues)
     @- [Sets](#sets)types)
+    @- [Queues](#queues)@- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types)
     @- [Queues](#queues)
+    @- [Sets](#sets)types)
+    @- [Queues](#queues)
+    @- [Sets](#sets)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
     @- [Trees](#trees@# Awesome Go
