@@ -25,7 +25,12 @@
     @- [Queues](#queues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
-    @- [Trees](#trees@# Awesome](#nullable-types)
+    @- [Trees](#trees@# Awesome](#nullable-types)@- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome Go@- [Nullable Types](#nullable-types)
+    @- [Queues](#queues)
+    @- [Sets](#sets)
+    @- [Text Analysis](#text-analysis)
+    @- [Trees](#trees@# Awesome]
     @- [Queues](#queues)
     @- [Sets](#sets)
     @- [Text Analysis](#text-analysis)
